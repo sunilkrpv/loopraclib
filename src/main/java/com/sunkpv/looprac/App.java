@@ -17,7 +17,17 @@ import com.sunkpv.looprac.model.builder.UserBuilder;
  */
 public class App {
 	public static void main(String[] args) {
-		testCarPoolBuilder();
+		//testCarPoolBuilder();
+	}
+	
+	static void testControllers() {
+		
+		//RideRequestController rideRequestController = new RideRequestController(new RideRequestControllerCallback());
+		//CarPoolController carPoolController = new CarPoolController(new CarPoolControllerCallback());
+		
+		//rideRequestController.register(carPoolController.getCallbackInterface());
+		//carPoolController.addUser(null);
+		
 	}
 
 	static void testCarPoolBuilder() {

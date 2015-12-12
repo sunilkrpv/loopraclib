@@ -2,8 +2,8 @@ package com.sunkpv.looprac.model.builder;
 
 import java.util.Collection;
 
+import com.sunkpv.looprac.exception.LoopRacException;
 import com.sunkpv.looprac.model.CarPoolConfig;
-import com.sunkpv.looprac.model.LoopRacException;
 import com.sunkpv.looprac.model.MacroLocation;
 import com.sunkpv.looprac.model.Route;
 import com.sunkpv.looprac.model.User;

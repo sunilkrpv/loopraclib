@@ -3,6 +3,8 @@ package com.sunkpv.looprac.model;
 import java.util.Collection;
 import java.util.HashSet;
 
+import com.sunkpv.looprac.exception.LoopRacException;
+
 /**
  * Class to represent a car-pool plan. Contains users, the route for the journey and the pool plan.
  *  

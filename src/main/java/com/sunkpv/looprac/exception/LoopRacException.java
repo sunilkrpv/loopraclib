@@ -1,4 +1,4 @@
-package com.sunkpv.looprac.model;
+package com.sunkpv.looprac.exception;
 
 /**
  * Generic exception class for this LoopRacLib
